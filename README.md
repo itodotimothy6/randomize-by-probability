@@ -35,9 +35,14 @@ X
 
 ## Run
 To run the program:
-1. Clone the repo
-2. cd to the randomize-by-probability directory
-3. Run the run.sh script & add as much arguments. Here's an example command to run the program:
 ```
+git clone https://github.com/itodotimothy6/randomize-by-probability.git
+
+cd randomize-by-probability/
+
 ./run.sh X:3 Y:1
+```
+**P.S:** You can change the args. For instance:
+```
+./run.sh A:3 B:2 C:4 D:4 E:1
 ```
