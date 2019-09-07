@@ -42,7 +42,7 @@ cd randomize-by-probability/
 
 ./run.sh X:3 Y:1
 ```
-**P.S:** You can change the args. For instance:
+**P.S:** You can run the run.sh script with different args as much as you want. For instance:
 ```
 ./run.sh A:3 B:2 C:4 D:4 E:1
 ```
